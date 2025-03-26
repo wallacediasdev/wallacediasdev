@@ -1,9 +1,31 @@
 # Olá, Bem-Vindo ao meu Perfil!
-Curso Principal: Sou estudante da Proz, no curso de Desenvolvimento de Sistemas. 
-Idioma: 
-Cursos a mais: 
-Hobbies:
-Interesses em Tecnologia: 
+Estudando _Desenvolvimento de Sistemas_ na Proz Educação. 
+
+## Interesses em Tecnologia: 
+- FrontEnd
+- BackEnd
+- FullStack
+- UX Design
+- Web Design
+- Mobile
+- DataBases
+- IA e ML
+- Redes
+- Segurança da Informação
+
+## Idiomas: 
+- Inglês
+- Espanhol
+
+## Cursos:
+- Excel Intermediário - Escola Virtual Bradesco
+- Bootcamp 
+
+## Hobbies:
+- Futebol 
+- Teatro
+
+<hr>
 
 ## Linguagens de Programação
 <div  style="display: inline">
