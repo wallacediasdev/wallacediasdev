@@ -19,7 +19,8 @@ fazer um intercambio aprender os idiomas
 
 ## Hobbies:
 - Futebol 
-- Teatro
+- karate
+- formula 1 
 
 <hr>
 
