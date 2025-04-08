@@ -1,5 +1,11 @@
 # Olá, Bem-Vindo ao meu Perfil!
-Estudando _Desenvolvimento de Sistemas_ na Proz Educação. 
+Estudando _Desenvolvimento de Sistemas_ na Proz Educação finalizei o ensino médio Em Uma Busca De primeiro Emprego  pratico esporte faço o  karate Eu Sou Uma Pessoa analista E Tranquilo
+            sou um autista gosto de viajar e gostaria de conhecer os paises pra conhecer a cultura e o pais como japão coreia do sul 
+            canada estados unidos ir conhecer a europa gosto de esporte de futebol e formula 1 como karate 
+            gostaria de ser um Profissional e um trabalhador e fazer um intercambio aprender os idiomas 
+            Estou em Busca de uma oportunidade de Emprego , me coloco a disposição da Empresa para aprender a Função 
+            que for me Nomeda e Assim contribuir para Os Resultados E cresimento da organização ,Sou autista nivel 01 
+            de suporte Tenho determinação estou disposto a aprender e crescer como Profissional. 
 
 ## Interesses em Tecnologia: 
 - FrontEnd
